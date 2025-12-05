@@ -34,7 +34,7 @@ This project is a RESTful API built with **Node.js**, **Express**, and **MySQL**
 
 ```bash
 git clone https://github.com/ranntharath/crud-express-mysql.git
-cd <repo-folder>
+cd cd crud-express-mysql
 
 ```
 2. Install dependencies:
