@@ -33,7 +33,7 @@ This project is a RESTful API built with **Node.js**, **Express**, and **MySQL**
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ranntharath/crud-express-mysql.git
 cd <repo-folder>
 
 ```
